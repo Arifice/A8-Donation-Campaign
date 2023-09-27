@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/3NS3dXCX/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Clean water for children is a fundamental necessity and a lifesaving initiative. Access to safe and uncontaminated drinking water is essential for the health and well-being of young individuals. It prevents waterborne diseases, malnutrition, and dehydration, ensuring children can thrive and develop to their full potential. Initiatives to provide clean water, often led by humanitarian organizations and governments, install water purification systems, build wells, and distribute water filtration tools. These efforts not only address immediate health concerns but also enable children to attend school regularly, as they no longer need to spend hours fetching water. Clean water for children is a cornerstone of their growth, promising a healthier and more prosperous future.",
+      "price": 400,
+      "bg_color": {
+        "card_color": "#0052FF26",
+        "category_color": "#0052FF33",
+        "text_color": "#0052FF"
+      }
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/cC8FnZfF/Education.png",
+      "title": "Scholarships for Students",
+      "category": "Education",
+      "description": "Scholarships for students are transformative opportunities that open doors to education and brighter futures. These financial awards, offered by universities, institutions, foundations, and corporations, provide critical funding to deserving individuals pursuing higher education. Scholarships are granted based on various criteria, including academic excellence, leadership, and financial need. They alleviate the burden of tuition fees, textbooks, and living expenses, making education more accessible. Scholarships empower students to achieve their dreams, unlock their potential, and contribute to society. Beyond financial support, they represent a commitment to nurturing talent, fostering innovation, and building a more educated and equitable world where talent and dedication, rather than financial means, determine success.",
+      "price": 350,
+      "bg_color": {
+        "card_color": "#FF444A26",
+        "category_color": "#FF444A33",
+        "text_color": "#FF444A"
+      }
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/sg9sWCcf/Food.png",
+      "title": "Emergency Food Aid",
+      "category": "Food",
+      "description": "Emergency food aid is a critical humanitarian response that provides essential nourishment to individuals and communities facing immediate food crises. Often distributed by relief organizations and governments during natural disasters, conflicts, or economic hardships, this aid includes staple food items such as rice, beans, and canned goods. It serves as a lifeline, addressing hunger and malnutrition in times of acute need. Emergency food aid not only saves lives but also restores a sense of stability and hope to those affected by crises. It exemplifies the international community's commitment to alleviating suffering and ensuring that no one goes hungry in times of dire emergencies.",
+      "price": 220,
+      "bg_color": {
+        "card_color": "#F8714726",
+        "category_color": "#F8714733",
+        "text_color": "#F87147"
+      }
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/TPGBvynf/Clothing.png",
+      "title": "Warm Clothing Drive",
+      "category": "Clothing",
+      "description": "A warm clothing drive is a heartwarming initiative aimed at collecting and distributing winter clothing to those in need. Typically organized by communities, charitable organizations, or schools, these drives gather donations of coats, jackets, sweaters, gloves, scarves, and blankets. These essential items provide comfort and protection from the cold for vulnerable individuals, including the homeless, low-income families, and those facing hardship. A warm clothing drive embodies the spirit of compassion and generosity, highlighting the power of collective action in making a tangible difference in the lives of people during the chilly winter months, offering not just warmth but also a sense of caring and solidarity.",
+      "price": 200,
+      "bg_color": {
+        "card_color": "#79C23F26",
+        "category_color": "#79C23F33",
+        "text_color": "#79C23F"
+      }
+    },
+    {
+      "id": 5,      
+      "img": "https://i.postimg.cc/FsGYL6x4/istockphoto-1410409563-2048x2048.jpg",
+      "title": "Food Bank Donations",
+      "category": "Food",
+      "description": "Food bank donations are a vital lifeline for individuals and families facing food insecurity. These contributions involve the generous provision of non-perishable food items to community food banks or pantries. Donors, ranging from individuals to businesses and organizations, play a crucial role in alleviating hunger. Food bank donations provide nourishment to those struggling to make ends meet, ensuring they have access to essential sustenance. These acts of kindness not only alleviate immediate hunger but also promote food security, health, and well-being within communities. They reflect the spirit of empathy and solidarity, emphasizing the collective effort to combat hunger and create a more equitable society for all.",
+      "price": 350,
+      "bg_color": {
+        "card_color": "#F8714726",
+        "category_color": "#F8714733",
+        "text_color": "#F87147"
+      }      
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/h4NB31Pd/istockphoto-1350663285-2048x2048.jpg",
+      "title": "Clothing for Children",
+      "category": "Clothing",
+      "description": "Clothing for children in need is a compassionate initiative addressing the basic necessity of clothing for vulnerable young individuals. This effort ensures that children from disadvantaged backgrounds, facing poverty or difficult circumstances, have access to warm, comfortable attire. Donated clothing or clothing drives by charitable organizations play a pivotal role, providing essential garments like coats, shoes, and clothing essentials. Beyond physical comfort, these efforts boost children's self-esteem, enhancing their overall well-being. They exemplify the power of community and kindness, demonstrating that even a simple gesture of providing clothing can make a profound difference in the lives of children, fostering dignity and hope.",
+      "price": 180,
+      "bg_color": {
+        "card_color": "#79C23F26",
+        "category_color": "#79C23F33",
+        "text_color": "#79C23F"
+      }     
+    },
+    {
+      "id": 7,
+      "img": "https://i.postimg.cc/ydKfS2LK/istockphoto-1360268455-2048x2048.jpg",
+      "title": "Medical Research Funding",
+      "category": "Health",
+      "description": "Medical Research Funding is the lifeblood of scientific discovery and innovation in healthcare. It involves financial support from government agencies, private organizations, and philanthropic donors to conduct critical research in the medical field. This funding sustains research projects aimed at uncovering new treatments, diagnostics, and therapies for various diseases and health conditions. It also supports the development of cutting-edge technologies and the training of future medical professionals. Adequate funding is essential to drive progress, improve public health, and ultimately save lives. It fuels the quest for breakthroughs, fosters collaboration among scientists, and brings hope to individuals and families affected by medical challenges.",
+      "price": 400,
+      "bg_color": {
+        "card_color": "#0052FF26",
+        "category_color": "#0052FF33",
+        "text_color": "#0052FF"
+      }
+    },
+    {
+      "id": 8,
+      "img": "https://i.postimg.cc/TwHDXDLs/istockphoto-684717406-2048x2048.jpg",
+      "title": "Educational Outreach Program",
+      "category": "Education",
+      "description": "An Educational Outreach Program is a dynamic initiative designed to extend the reach of education beyond traditional boundaries. It serves as a catalyst for community engagement, equipping individuals with knowledge and skills for personal and societal growth. These programs often target underserved populations, offering educational opportunities, workshops, and resources that promote literacy, vocational training, and personal development. Through partnerships with schools, non-profit organizations, and community centers, Educational Outreach Programs bridge educational gaps, foster lifelong learning, and empower individuals to thrive. They exemplify the power of education as a tool for empowerment, social inclusion, and the enhancement of overall quality of life.",
+      "price": 150,
+      "bg_color": {
+        "card_color": "#FF444A26",
+        "category_color": "#FF444A33",
+        "text_color": "#FF444A"
+      }      
+    },
+    {
+      "id": 9,
+      "img": "https://i.postimg.cc/SxPcvGxH/istockphoto-1287693492-2048x2048.jpg",
+      "title": "Digital Learning Resources",
+      "category": "Education",
+      "description": "Digital learning resources are a transformative educational tool, encompassing a wealth of online materials and platforms that revolutionize the way we acquire knowledge. They include e-books, interactive courses, educational apps, and multimedia content that cater to diverse learning styles and preferences. These resources enable self-directed learning, breaking down geographical barriers and providing access to quality education from virtually anywhere. They empower learners of all ages to acquire new skills, explore subjects of interest, and stay updated in a rapidly evolving world. With their flexibility and accessibility, digital learning resources are at the forefront of modern education, promoting lifelong learning and fostering a more knowledgeable and skilled global population.",
+      "price": 500,
+      "bg_color": {
+        "card_color": "#FF444A26",
+        "category_color": "#FF444A33",
+        "text_color": "#FF444A"
+      }     
+    },
+    {
+      "id": 10,
+      "img": "https://i.postimg.cc/qR3TkN1R/istockphoto-1439788224-612x612.jpg",
+      "title": "Healthcare Access Initiative",
+      "category": "Health",
+      "description": "The Healthcare Access Initiative is a transformative effort aimed at breaking down barriers to healthcare services. This vital program seeks to ensure that quality healthcare is a fundamental right, not a privilege. Through a combination of policy reforms, expanded medical facilities, and community outreach, this initiative strives to provide accessible and affordable healthcare to all, regardless of income or location.By reducing healthcare disparities and improving access to medical resources, it aims to enhance overall public health, prevent diseases, and save lives. The Healthcare Access Initiative represents a commitment to a healthier, more equitable society where everyone has the opportunity to receive the care they need, fostering a brighter and healthier future for all.",
+      "price": 300,
+      "bg_color": {
+        "card_color": "#0052FF26",
+        "category_color": "#0052FF33",
+        "text_color": "#0052FF"
+      }     
+    },
+    {
+      "id": 11,
+      "img": "https://i.postimg.cc/BZx9ZYWc/istockphoto-504816873-2048x2048.jpg",
+      "title": "Warm Blankets for Winter",
+      "category": "Clothing",
+      "description": "Warm blankets for winter are more than just pieces of fabric; they are beacons of comfort, protection, and care during the coldest months of the year. These blankets, often distributed by charitable organizations, communities, and kind-hearted individuals, serve as a tangible expression of empathy. They offer warmth and shelter to those who may be vulnerable to the biting cold, providing a sense of security and relief.These blankets are a symbol of compassion, reminding us of our shared humanity and the importance of looking out for one another. They become a lifeline for homeless individuals and low-income families, helping them endure the harsh elements. Beyond physical warmth, these blankets also provide emotional comfort, offering solace during long, cold nights.",
+      "price": 120,
+      "bg_color": {
+        "card_color": "#79C23F26",
+        "category_color": "#79C23F33",
+        "text_color": "#79C23F"
+      }      
+    },
+    {
+      "id": 12,
+      "img": "https://i.postimg.cc/26Dbs9R9/istockphoto-1400856950-612x612.jpg",
+      "title": "Meals for the Homeless",
+      "category": "Food",
+      "description": "Meals for the homeless are a profound gesture of compassion that goes beyond providing sustenance; they are a lifeline for individuals facing the relentless challenges of homelessness. These meals, often prepared and served by dedicated volunteers and charitable organizations, serve as a symbol of solidarity and empathy within our communities. They offer warmth, nourishment, and a brief respite from the harsh realities of life on the streets. These meals, typically simple yet hearty, convey a powerful message of care and support. They restore dignity to those who often feel invisible in society and serve as a reminder of our shared humanity. Additionally, these meals can be a critical link to accessing essential services like shelter, healthcare, and social assistance, offering a path toward stability and recovery.",
+      "price": 220,
+      "bg_color": {
+        "card_color": "#F8714726",
+        "category_color": "#F8714733",
+        "text_color": "#F87147"
+      }      
+    }
+  ]
+  
